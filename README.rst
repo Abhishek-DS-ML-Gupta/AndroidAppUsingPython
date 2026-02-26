@@ -76,6 +76,11 @@ Project Structure
    ├── venv/                 # Python virtual environment
    ├── README.rst
    └── screenshot.png        # Optional screenshot
+Download
+-----
+You can download the latest Android APK here:
+
+`Download APK <app-debug.apk>`_
 
 Usage
 -----
