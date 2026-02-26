@@ -1,7 +1,7 @@
 Surakshak / Bharat App
 ======================
 
-.. image:: screenshot.png
+.. image:: image.png
    :alt: Milky UI Screenshot
 
 Overview
@@ -96,7 +96,7 @@ You can customize the milky theme:
 Screenshots
 -----------
 
-.. image:: screenshot.png
+.. image:: image.png
    :alt: Milky UI Screenshot
 
 Contributing
